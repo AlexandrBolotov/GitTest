@@ -1,0 +1,13 @@
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\bin\Release\Test.exe.config
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\bin\Release\Test.exe
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\bin\Release\Test.pdb
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\MainWindow.g.cs
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\App.g.cs
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\Test_MarkupCompile.cache
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\Test_MarkupCompile.lref
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\MainWindow.baml
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\Test.g.resources
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\Test.Properties.Resources.resources
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\Test.csproj.GenerateResource.Cache
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\Test.exe
+c:\users\alex_wk\documents\visual studio 2015\Projects\Test\Test\obj\Release\Test.pdb
